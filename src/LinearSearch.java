@@ -18,6 +18,6 @@ public class LinearSearch {
 
     public static void main(String[] args) {
         int[] numbers = {1,2,6,4,8,5,9,7};
-        showResult(linearSearch(numbers,9));
+        showResult(linearSearch(numbers,5));
     }
 }
