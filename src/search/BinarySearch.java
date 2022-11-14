@@ -1,3 +1,5 @@
+package search;
+
 public class BinarySearch {
     public static int binarySearch(int[] numbers, int target){
         int first = 0;
