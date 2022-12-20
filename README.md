@@ -1,2 +1,2 @@
 # Algorithms
-This repository help me cultivating git skills and master algorithms
+This repository help to master knowledge about basic algorithms
